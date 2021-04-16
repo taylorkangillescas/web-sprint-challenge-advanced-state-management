@@ -1,4 +1,4 @@
-import {SMURF_NEW, SMURF_NEW_ERROR, FETCH_SMURF_START, FETCH_SMURF_SUCCESS, FETCH_SMURF_ERROR} from '../actions';
+import { SMURF_NEW, SMURF_NEW_ERROR, FETCH_SMURF_START, FETCH_SMURF_SUCCESS, FETCH_SMURF_ERROR } from '../actions';
 
 export const initialState = {
     smurfs: [],
